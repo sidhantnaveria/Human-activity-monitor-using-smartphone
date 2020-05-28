@@ -1,0 +1,2 @@
+https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/
+https://towardsdatascience.com/exploring-activation-functions-for-neural-networks-73498da59b02
